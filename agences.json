@@ -1,0 +1,83 @@
+[
+{
+    "Delegation": "Setif",
+    "Agence": "2a0702",
+    "Code": "225",
+    "Nom": "Gherfa",
+    "Prenom": "Mohamed",
+    "Adresse": "14, Rue Hakim Saadane- Biskra",
+    "Qualite": "Fermée"
+},
+{
+    "Delegation": "Tlemcen",
+    "Agence": "2a9405-02",
+    "Code": "670",
+    "Nom": "Cap Assurances",
+    "Prenom": "Seghier Lahouari",
+    "Adresse": "N°1, Cité Kadissia - Bechar",
+    "Qualite": "Courtier"
+},
+{
+    "Delegation": "Tlemcen",
+    "Agence": "2a4501-01",
+    "Code": "633",
+    "Nom": "Messaoud",
+    "Prenom": "Ahmed",
+    "Adresse": "L'Biod Sidi Cheikh Mecheria- Naama",
+    "Qualite": "Fermée"
+},
+{
+    "Delegation": "DRCO",
+    "Agence": "2a1637-06",
+    "Code": "107",
+    "Nom": "Ahmed Chaouch",
+    "Prenom": "Bilal",
+    "Adresse": "Pins Maritimes, Hyper-Marché Ardis - Alger",
+    "Fax": "021891779",
+    "Qualite": "Fermée"
+},
+{
+    "Delegation": "Annaba",
+    "Agence": "2a1201",
+    "Code": "257",
+    "Nom": "",
+    "Prenom": "Abdelatif",
+    "Adresse": "Rue Aérodrome 151 N°01 Bp 580- Tébessa",
+    "Telephon": "037553029",
+    "Fax": "030783671",
+    "Qualite": "AGA"
+},
+{
+    "Delegation": "Annaba",
+    "Agence": "2a2101",
+    "Code": "455",
+    "Nom": "Abada",
+    "Prenom": "Ahmed Toufik",
+    "Adresse": "Cité De 20 Août 1955 -Skikda",
+    "Telephon": "038703322",
+    "Fax": "038703322",
+    "Qualite": "AD"
+},
+{
+    "Delegation": "Annaba",
+    "Agence": "2a2302",
+    "Code": "465",
+    "Nom": "Senaoui",
+    "Prenom": "Faycel",
+    "Adresse": "13, Bd Saouli Abdelkader Annaba Centre - Annaba",
+    "Telephon": "038401224",
+    "Fax": "038401224",
+    "Qualite": "AP"
+},
+{
+    "Delegation": "Annaba",
+    "Agence": "2a2309",
+    "Code": "475",
+    "Nom": "Abdellaoui",
+    "Prenom": "Henda",
+    "Adresse": "C .A.M N° 16 Bis 3Eme Étage Bd De L’Afrique - Annaba",
+    "Telephon": "038846247",
+    "Fax": "038846247",
+    "Qualite": "AD"
+}
+]
